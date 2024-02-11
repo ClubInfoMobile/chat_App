@@ -8,7 +8,7 @@ application mobile avec flutter et flask
     `pip install flask-socketio`
   Cela installera Flask ainsi que Flask-SocketIO pour gérer les communications WebSocket.
 
-- **coté client(flutter) **
+- **coté client(flutter)**
   Dans le fichier `pubspec.yaml` ajouter cette ligne au niveau de `dependencies`
     `socket_io_client: ^2.0.0-beta.4`
     **DEUX ESPACEMENT**
