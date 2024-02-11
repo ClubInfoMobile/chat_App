@@ -4,15 +4,15 @@ application mobile avec flutter et flask
 # Installation
 - **coté server**
   Exécuter les commandes suivantes dans le terminal :
-    `pip install flask`
-    `pip install flask-socketio`
-  Cela installera Flask ainsi que Flask-SocketIO pour gérer les communications WebSocket.
+    - `pip install flask`
+    - `pip install flask-socketio`
+  - Cela installera Flask ainsi que Flask-SocketIO pour gérer les communications WebSocket.
 
 - **coté client(flutter)**
-  Dans le fichier `pubspec.yaml` ajouter cette ligne au niveau de `dependencies` \n
-    `socket_io_client: ^2.0.0-beta.4`
+  Dans le fichier `pubspec.yaml` ajouter cette ligne au niveau de `dependencies`
+   - `socket_io_client: ^2.0.0-beta.4`
     **DEUX ESPACEMENT**
-  Deplacer le fichier `main.dart` dans le dossier `lib`
+  - Deplacer le fichier `main.dart` dans le dossier `lib`
 
 # instruction server.py
 
